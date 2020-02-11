@@ -1,4 +1,4 @@
-package todo;
+package ch.unifr.softeng.todobackend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

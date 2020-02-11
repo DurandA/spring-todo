@@ -1,4 +1,4 @@
-package todo;
+package ch.unifr.softeng.todobackend;
 
 import javassist.NotFoundException;
 import org.springframework.http.HttpStatus;

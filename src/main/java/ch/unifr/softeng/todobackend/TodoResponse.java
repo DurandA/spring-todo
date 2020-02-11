@@ -1,4 +1,4 @@
-package todo;
+package ch.unifr.softeng.todobackend;
 
 public class TodoResponse {
     private Long id;
